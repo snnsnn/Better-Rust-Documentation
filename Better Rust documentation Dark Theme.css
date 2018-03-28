@@ -114,7 +114,8 @@
     margin-top: 20px;
     background-color: #191f26;
     color: #ddd;
-    border: 1px solid #191f26;
+    border: 1px solid #2a2c30;
+    border-bottom: unset;
   }
   .sidebar .current {
     color: inherit;

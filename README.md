@@ -12,7 +12,7 @@ Current Rust API website is a bit hard to follow. These Stylish themes aim to ma
 
 ## How to use
 
-First install Stylus or Stylish add ons on your browser then use import button to import contents of css file. Stylus is the better one. Make sure either dark or light theme since they overwrite each other. 
+First install Stylus or Stylish add ons on your browser then use import button to import contents of css file. Stylus is the better one. Make sure to use either dark or light theme since they overwrite each other. 
 
 You can also use userstyles.org to install:
 

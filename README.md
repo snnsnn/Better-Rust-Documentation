@@ -10,12 +10,15 @@ Current Rust API website is a bit hard to follow. These Stylish themes aim to ma
 * Changes color highlighting of documentation and code blocks
 
 You can also use userstyles.org to install:
+
 [https://userstyles.org/styles/157658/better-rust-documentation](https://userstyles.org/styles/157658/better-rust-documentation)
+
 [https://userstyles.org/styles/157666/better-rust-documentation-dark-theme](https://userstyles.org/styles/157666/better-rust-documentation-dark-theme)
 
 Applies to:
 
 https://doc.rust-lang.org
+
 https://docs.rs
 
 You can use Stylish or Stylus addons to install. Just import content of css files and enable. Make sure either dark or light theme since they overwrite each other. 

@@ -24,7 +24,7 @@ Theme links:
 
 Please use above links to install and update themes. I am keeping this repository for back up purpose.
 
-Also don't forget to update theme from time to time. It is newly released, might need some bug fixes and flow errors.
+Also don't forget to update theme from time to time. It is newly released, might need some bug and flow errors fixes.
 
 ## Screenshots
 

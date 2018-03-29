@@ -14,7 +14,7 @@ Current Rust API website is a bit hard to follow. These Stylish themes aim to ma
 
 First install Stylus or Stylish add ons on your browser. Stylus is the better one. Then go to link and click install button. Make sure to use either dark or light theme since they overwrite each other.
 
-YTheme links:
+Theme links:
 
 [https://userstyles.org/styles/157658/better-rust-documentation](https://userstyles.org/styles/157658/better-rust-documentation)
 
@@ -22,7 +22,9 @@ YTheme links:
 
 ## Important:
 
-Please use https://userstyles.org to install and update theme. I am keeping this repository for back up.
+Please use above links to install and update themes. I am keeping this repository for back up purpose.
+
+Also don't forget to update theme from time to time. It is newly released, might need some bug fixes and flow errors.
 
 ## Screenshots
 

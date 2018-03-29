@@ -115,7 +115,9 @@
     background-color: #191f26;
     color: #ddd;
     border: 1px solid #2a2c30;
-    border-bottom: unset;
+  }
+ .sidebar-elems > .block.items > .sidebar-links{
+	border-top: unset;
   }
   .sidebar .current {
     color: inherit;
@@ -336,11 +338,22 @@
     width: 100%;
     transition: width 0.3s;
   }
+ .content > .methods > div.important-traits {
+    left: -25px;
+    margin-top: 15px;
+  }
+
   h4 > .important-traits {
     color: #f6003d;
     font-weight: bold;
     left: -50px;
     top: -5px;
+  }
+
+  .content .methods > div:not(.important-traits) {
+    margin-top: 2em;
+    margin-left: 3em;
+    margin-bottom: 3em;
   }
   nav {
     border-bottom-color: #4e4e4e;
@@ -379,6 +392,10 @@
   }
   :target > code {
     background: #fdffd3;
+  }
+  .item-spacer {
+    width: 100%;
+    height: 1.5em;
   }
   pre.compile_fail {
     border-left: 2px solid rgba(255, 0, 0, 0.6);
@@ -437,25 +454,27 @@
     color: #888;
   }
   .modal {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.8);
   }
   .modal-content {
-    background-color: #272727;
-    border-color: #999;
+    background-color: #0f1419;
+    border: 1px solid #2a2c30;
   }
   .modal-content > .close {
-    background-color: #272727;
-    border-right: 1px solid #999;
+    background-color: #0f1419;
+    border-top: 2px solid #2a2c30;
+    border-right: 1px solid #2a2c30;
+    border-bottom: 1px solid #2a2c30;
   }
   .modal-content > .close:hover {
     background-color: #ff1f1f;
     color: white;
   }
   .modal-content > .whiter {
-    background-color: #272727;
+    background-color: #0f1419;
   }
   .modal-content > .close:hover + .whiter {
-    background-color: #ff1f1f;
+    background-color: #2a2c30;
   }
   @media (max-width: 700px) {
     nav.sub,
@@ -721,7 +740,7 @@
   h3.type,
   h4.type,
   h4.associatedconstant,
-  pre.rust {
+  pre {
     border: 1px solid #2a2c30;
     background-color: #191f26;
     color: #e6e1cf;

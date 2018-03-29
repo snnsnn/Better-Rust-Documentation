@@ -12,13 +12,17 @@ Current Rust API website is a bit hard to follow. These Stylish themes aim to ma
 
 ## How to use
 
-First install Stylus or Stylish add ons on your browser then use import button to import contents of css file. Stylus is the better one. Make sure to use either dark or light theme since they overwrite each other. 
+First install Stylus or Stylish add ons on your browser. Stylus is the better one. Then go to link and click install button. Make sure to use either dark or light theme since they overwrite each other.
 
-You can also use userstyles.org to install:
+YTheme links:
 
 [https://userstyles.org/styles/157658/better-rust-documentation](https://userstyles.org/styles/157658/better-rust-documentation)
 
 [https://userstyles.org/styles/157666/better-rust-documentation-dark-theme](https://userstyles.org/styles/157666/better-rust-documentation-dark-theme)
+
+## Important:
+
+Please use https://userstyles.org to install and update theme. I am keeping this repository for back up.
 
 ## Screenshots
 
